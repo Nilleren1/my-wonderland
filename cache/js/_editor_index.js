@@ -1,0 +1,8 @@
+import * as __wonderlandengine_components from '@wonderlandengine/components';
+_registerEditor(__wonderlandengine_components);
+import * as _C__Users_nicol_OneDrive_Documents_WonderlandEngine_my_wonderland_js_button_js from 'C:/Users/nicol/OneDrive/Documents/WonderlandEngine/my-wonderland/js/button.js';
+_registerEditor(_C__Users_nicol_OneDrive_Documents_WonderlandEngine_my_wonderland_js_button_js);
+import * as _C__Users_nicol_OneDrive_Documents_WonderlandEngine_my_wonderland_js_custom_js from 'C:/Users/nicol/OneDrive/Documents/WonderlandEngine/my-wonderland/js/custom.js';
+_registerEditor(_C__Users_nicol_OneDrive_Documents_WonderlandEngine_my_wonderland_js_custom_js);
+import * as _C__Users_nicol_OneDrive_Documents_WonderlandEngine_my_wonderland_js_nonVRMovement_js from 'C:/Users/nicol/OneDrive/Documents/WonderlandEngine/my-wonderland/js/nonVRMovement.js';
+_registerEditor(_C__Users_nicol_OneDrive_Documents_WonderlandEngine_my_wonderland_js_nonVRMovement_js);
